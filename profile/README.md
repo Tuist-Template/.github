@@ -1,8 +1,11 @@
 # Tuist Template
 
 ### Guide Line
-- iOS (Swift)
-- iOS (SwiftUI)
+- [Tuist Template GuideLine](https://github.com/Tuist-Template/GuideLine)
+
+### Project
+- [iOS (Swift)](https://github.com/Tuist-Template/CleanArchitecture-iOS-Swift)
+- [iOS (SwiftUI)](https://github.com/Tuist-Template/CleanArchitecture-iOS-SwiftUI)
 
 ---
 **Will be added later**
