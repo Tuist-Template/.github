@@ -13,4 +13,4 @@
 - macOS (SwiftUI)
 - iOS & macOS (SwiftUI)
 - Tuist Library
-- TUist Framework
+- Tuist Framework
