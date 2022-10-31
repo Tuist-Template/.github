@@ -6,11 +6,9 @@
 ### Project
 - [iOS (Swift)](https://github.com/Tuist-Template/CleanArchitecture-iOS-Swift)
 - [iOS (SwiftUI)](https://github.com/Tuist-Template/CleanArchitecture-iOS-SwiftUI)
+- [macOS (SwiftUI)](https://github.com/Tuist-Template/CleanArchitecture-macOS-SwiftUI)
 
 ---
 **Will be added later**
-- macOS (Swift)
-- macOS (SwiftUI)
-- iOS & macOS (SwiftUI)
 - Tuist Library
 - Tuist Framework
