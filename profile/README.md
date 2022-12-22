@@ -10,5 +10,4 @@
 
 ---
 **Will be added later**
-- Tuist Library
-- Tuist Framework
+- Tuist OpenSource
